@@ -1,0 +1,6 @@
+Assets/Textures/**/*.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Textures/**/*.png filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes/**/*.unity filter=lfs diff=lfs merge=lfs -text
+Assets/Objects/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Sounds/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+Assets/Sounds/**/*.wav filter=lfs diff=lfs merge=lfs -text
